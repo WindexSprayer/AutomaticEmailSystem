@@ -15,4 +15,6 @@ Install the required Python packages using pip:
 `` 
 pip install imaplib email smtplib
 ``
-Once these packages have been installed, you may begin by running the Start&Stop_Program.py file. This script can be modified to handle starting and stopping any process using the emailing system.
+Once these packages have been installed, you may begin by running the Start&Stop_Program.py file. 
+
+This script can be modified to handle starting and stopping any process using the emailing system.
